@@ -1,0 +1,1 @@
+var toilet = new Object();
